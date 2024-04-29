@@ -1,15 +1,3 @@
-
-# Ex-6-GAE
-Date:
-Aim:
-ToinstallGoogleAppEngine.Createhelloworldappandothersimplewebapplicationsusingpython/java
-
-GoogleCloudPlatform(GCP)
-
-GoogleCloudPlatform(GCP),offeredbyGoogle,isasuiteofcloud computingservicesthatrunsonthesameinfrastructurethatGoogleuses internally for its end-user products, such as Google Search,Gmail,filestorage, andYouTube.
-	Alongsideasetofmanagementtools,itprovidesaseriesofmodularcloudservicesincludingcomputing,datastorage,dataanalyticsandmachinelearning.
-GoogleCloudPlatformprovidesinfrastructureasaservice,platformasaservice,andserverlesscomputingenvironments.
-
 # Ex-6-GAE
 # Date:
 # Aim:
